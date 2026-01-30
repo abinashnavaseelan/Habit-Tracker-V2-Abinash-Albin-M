@@ -1,2 +1,2 @@
-<h1 align="center">Abinash & Albin M</h1>
-<h3 align="center">Daily Habit Tracker V2</h3>
+<h1 align="center">Daily Habit Tracker V2</h1>
+<h3 align="center">Abinash & Albin M</h3>
